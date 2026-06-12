@@ -1,6 +1,5 @@
-# Hi there 👋 I'm Zakia Tafheem
-
-## Machine Learning | Generative AI | Agentic AI
+# Hello, I'm Zakia Tafheem
+## Welcome to my Data Science Portfolio
 
 I enjoy building intelligent applications, exploring modern AI technologies, and continuously learning through real-world projects.
 
