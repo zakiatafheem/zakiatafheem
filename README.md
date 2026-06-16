@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I'm **Zakia Tafheem**, a passionate **Data Scientist → AI Engineer** focused on building intelligent systems using:
+I'm **Zakia Tafheem**, a passionate **Data Scientist and AI Engineer** focused on building intelligent systems using:
 
 🐍 Python  
 📊 EDA & Power BI  
