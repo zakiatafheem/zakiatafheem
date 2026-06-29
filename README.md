@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I'm **Zakia Tafheem**, a passionate **Data Scientist and AI Engineer** focused on building intelligent systems using:
+I'm **Zakia Tafheem**, a Data & AI enthusiast passionate about building data-driven and intelligent systems using:
 
 🐍 Python  
 📊 EDA & Power BI  
@@ -21,6 +21,15 @@ Currently exploring **LLMs, AI Agents, and production-ready AI applications**.
 ---
 
 # 🛠 Key Projects
+
+## [🛒 Superstore Sales Analysis](https://github.com/zakiatafheem/Superstore_Sales_Analysis)
+### Tech Stack: Python, Excel, SQL, Power BI
+
+* Built an end-to-end retail sales analytics pipeline using Python, SQL, Excel, and Power BI to analyze sales performance, profitability, and customer purchasing trends.
+  
+* Performed data cleaning, exploratory data analysis (EDA), and SQL-based business analysis to generate insights on monthly sales, category performance, regional trends, and discount impact.
+
+* Developed an interactive Power BI dashboard with KPI tracking, filters, automated reporting, and exported Excel reports to support data-driven decision making.⁠
 
 ## [⚡ Multi-Step Autonomous AI Task Agent](https://github.com/zakiatafheem/Multi-Step_Autonomous_AI_Task_Agent)
 ### Tech Stack: LangGraph, LangChain, Groq LLM, ChromaDB, Streamlit.
