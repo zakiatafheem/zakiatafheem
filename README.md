@@ -31,6 +31,16 @@ Currently exploring **LLMs, AI Agents, and production-ready AI applications**.
 
 * Developed an interactive Power BI dashboard with KPI tracking, filters, automated reporting, and exported Excel reports to support data-driven decision making.⁠
 
+## [🛍️ RetailMind Personalized Shopping Intelligence](https://github.com/zakiatafheem/RetailMind)
+### Tech Stack: Python, Groq LLM, Stremlit.
+
+* Built RetailMind, an LLM-powered personalized shopping assistant using Python, Streamlit, and Groq to generate context-aware product recommendations based on budget, category, and user use case.
+  
+* Engineered a prompt-driven recommendation workflow with structured JSON output parsing to deliver explainable product suggestions and final purchase decisions.
+  
+* Developed an interactive Streamlit frontend enabling real-time recommendation generation with formatted outputs including pros, cons, and recommendation reasoning.
+
+
 ## [⚡ Multi-Step Autonomous AI Task Agent](https://github.com/zakiatafheem/Multi-Step_Autonomous_AI_Task_Agent)
 ### Tech Stack: LangGraph, LangChain, Groq LLM, ChromaDB, Streamlit.
 
