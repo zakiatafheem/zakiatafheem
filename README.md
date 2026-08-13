@@ -22,14 +22,45 @@ Currently exploring **LLMs, AI Agents, and production-ready AI applications**.
 
 # 🛠 Key Projects
 
-## [🛒 Superstore Sales Analysis](https://github.com/zakiatafheem/Superstore_Sales_Analysis)
-### Tech Stack: Python, Excel, SQL, Power BI
+## [🏥 Medical Companion AI](https://github.com/zakiatafheem/Medical_Companion_AI)
+### Tech Stack: Python, LangChain, NLP, Groq, ChromaDB, Sentence Transformers, OCR, ReportLab
 
-* Built an end-to-end retail sales analytics pipeline using Python, SQL, Excel, and Power BI to analyze sales performance, profitability, and customer purchasing trends.
-  
-* Performed data cleaning, exploratory data analysis (EDA), and SQL-based business analysis to generate insights on monthly sales, category performance, regional trends, and discount impact.
+* Built an AI-powered healthcare assistant using Python, LangChain, Groq LLM, ChromaDB, and Streamlit.
 
-* Developed an interactive Power BI dashboard with KPI tracking, filters, automated reporting, and exported Excel reports to support data-driven decision making.⁠
+* Developed a Retrieval-Augmented Generation (RAG) pipeline using Sentence Transformers and ChromaDB for semantic document retrieval.
+
+* Implemented NLP techniques to extract, process, and analyze medical reports using OCR and prompt engineering.
+
+* Generated AI-powered health summaries, comparative report analysis, and personalized doctor discussion questions using Large Language Models.
+
+* Designed an end-to-end document intelligence workflow integrating PDF processing, vector embeddings, semantic search, and LLM inference.
+
+## [💰 Financial Life Planner AI⁠](https://github.com/zakiatafheem/Financial_Life_Planner_AI)
+### Tech Stack:  LangGraph, LangChain, Python, Streamlit, RAG, Gemini
+
+* Developed a multi-agent AI financial planning application using LangGraph and LangChain, orchestrating specialized agents for budgeting, savings, debt management, investment planning, risk assessment, and goal tracking.
+
+* Built a Retrieval-Augmented Generation (RAG) workflow to retrieve relevant financial information and provide context-aware recommendations and financial insights.
+
+* Integrated LLMs, prompt engineering, and agent workflows to analyze user financial profiles and generate personalized, explainable financial plans.
+
+* Developed an interactive Streamlit application that enables users to interact with the AI system through a conversational interface.
+
+## [⚡ Multi-Step Autonomous AI Task Agent](https://github.com/zakiatafheem/Multi-Step_Autonomous_AI_Task_Agent)
+### Tech Stack: LangGraph, LangChain, Groq LLM, ChromaDB, Streamlit.
+
+* Engineered a stateful multi-agent AI system using LangGraph that autonomously plans, executes, and summarizes complex multi-step tasks through dynamic workflow orchestration, memory management, agent collaboration, and tool-calling capabilities.
+
+* Developed an end-to-end Agentic AI application leveraging RAG with ChromaDB, semantic search, embeddings, and Groq LLM to enable context-aware reasoning, structured output generation, and production-ready AI task automation through an interactive Streamlit interface.
+
+## [🏭 Industrial Energy Consumption Prediction](https://github.com/zakiatafheem/Industrial_Energy_Consumption_Prediction)
+### Tech Stack: Python, Pandas, Scikit-Learn, XGBoost, Streamlit.
+
+* Developed an end-to-end machine learning regression pipeline using Python, KNN, Linear Regression, and others to predict industrial energy consumption from a 35K+ record dataset.
+
+* Performed data preprocessing, feature engineering, cyclical encoding, feature selection, and model optimization to improve prediction accuracy.
+
+* Compared Random Forest, and XGBoost models using MSE and R² metrics, deploying the best-performing model through Streamlit.
 
 ## [🛍️ RetailMind Personalized Shopping Intelligence](https://github.com/zakiatafheem/RetailMind)
 ### Tech Stack: Python, Groq LLM, Stremlit.
@@ -40,14 +71,6 @@ Currently exploring **LLMs, AI Agents, and production-ready AI applications**.
   
 * Developed an interactive Streamlit frontend enabling real-time recommendation generation with formatted outputs including pros, cons, and recommendation reasoning.
 
-
-## [⚡ Multi-Step Autonomous AI Task Agent](https://github.com/zakiatafheem/Multi-Step_Autonomous_AI_Task_Agent)
-### Tech Stack: LangGraph, LangChain, Groq LLM, ChromaDB, Streamlit.
-
-* Engineered a stateful multi-agent AI system using LangGraph that autonomously plans, executes, and summarizes complex multi-step tasks through dynamic workflow orchestration, memory management, agent collaboration, and tool-calling capabilities.
-
-* Developed an end-to-end Agentic AI application leveraging RAG with ChromaDB, semantic search, embeddings, and Groq LLM to enable context-aware reasoning, structured output generation, and production-ready AI task automation through an interactive Streamlit interface.
-
 ## [👨‍💼 AI Career Advisor Chatbot](https://github.com/zakiatafheem/AI_Career_Advisor_Chatbot)
 ### Tech Stack: Python, Gemini API, Streamlit.
 
@@ -55,14 +78,6 @@ Currently exploring **LLMs, AI Agents, and production-ready AI applications**.
 
 * Implemented prompt engineering, conversation history management, exception handling, and workflow validation features, improving AI response consistency and operational reliability.
 
-## [🏭 Industrial Energy Consumption Prediction](https://github.com/zakiatafheem/Industrial_Energy_Consumption_Prediction)
-### Tech Stack: Python, Pandas, Scikit-Learn, XGBoost, Streamlit.
-
-* Developed an end-to-end machine learning regression pipeline using Python, KNN, Linear Regression, and others to predict industrial energy consumption from a 35K+ record dataset.
-
-* Performed data preprocessing, feature engineering, cyclical encoding, feature selection, and model optimization to improve prediction accuracy.
-
-* Compared Random Forest, and XGBoost models using MSE and R² metrics, deploying the best-performing model through Streamlit.
 
 ## [🔍 AI Research Assistant](https://github.com/zakiatafheem/AI_Research_Assistant)
 ### Tech Stack: LangChain, Groq LLM, Tavily Search API, Streamlit.
@@ -85,14 +100,14 @@ Currently exploring **LLMs, AI Agents, and production-ready AI applications**.
 
 * Built and evaluated multiple classification models (Logistic Regression, Decision Tree, Random Forest, KNN), achieving 96.8% accuracy with Random Forest, and implemented preprocessing pipelines with encoding, scaling, and model serialization for deployment.
 
-## [🚗 Automotive Market Pricing Trend Analysis](https://github.com/zakiatafheem/Automotive_Market_Pricing_Trend_Analysis)
-### Tech Stack: Python, SQL, PowerBI
+## [🛒 Superstore Sales Analysis](https://github.com/zakiatafheem/Superstore_Sales_Analysis)
+### Tech Stack: Python, Excel, SQL, Power BI
 
-* Performed exploratory data analysis (EDA) on 6,000+ vehicle records using Python (Pandas, NumPy); uncovered pricing depreciation patterns across 5+ engine types and fuel categories
+* Built an end-to-end retail sales analytics pipeline using Python, SQL, Excel, and Power BI to analyze sales performance, profitability, and customer purchasing trends.
+  
+* Performed data cleaning, exploratory data analysis (EDA), and SQL-based business analysis to generate insights on monthly sales, category performance, regional trends, and discount impact.
 
-* Designed and executed SQL analytics queries aggregating price trends by brand, year, and vehicle attributes; identified 15%+ price variance drivers
-
-* Developed interactive Power BI dashboard with drill-down KPI visuals (price trends by segment, brand, year) enabling data-driven pricing recommendations and stakeholder insights
+* Developed an interactive Power BI dashboard with KPI tracking, filters, automated reporting, and exported Excel reports to support data-driven decision making.⁠
 
 ---
 
@@ -107,7 +122,6 @@ Currently exploring **LLMs, AI Agents, and production-ready AI applications**.
 
 # 📚 Currently Learning
 
-- Advanced Generative AI
 - Agentic AI Architectures
 - Production AI Systems
 
